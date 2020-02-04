@@ -10,7 +10,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 ## 目录说明
 
 - NJU(till20200202) 文件夹内容来自 [NJU核真录（南京大学新闻学院）]( https://pan.baidu.com/s/1ai7pQQAO0ap_rOVjRWFWWg)
-- 2019ncovmemory 文件夹来自 [石墨](https://shimo.im/docs/2d05dce1eaa743c7/read  )
+- 其他媒体文章摘录来自 [石墨](https://shimo.im/docs/2d05dce1eaa743c7/read  )
 - [2019ncovmemory 在 Github]( https://github.com/2019ncovmemory/nCovMemory) 
 
 ## 协作与联系
