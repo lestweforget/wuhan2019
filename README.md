@@ -16,8 +16,8 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 
 目录：
 
-- PDF 文件夹内容来自 NJU核真录 https://pan.baidu.com/s/1ai7pQQAO0ap_rOVjRWFWWg
-- Web 来自 https://shimo.im/docs/2d05dce1eaa743c7/read
+- NJU(till20200202) 文件夹内容来自 NJU核真录（南京大学新闻学院） https://pan.baidu.com/s/1ai7pQQAO0ap_rOVjRWFWWg
+- NJU(till20200202) 文件夹来自 https://shimo.im/docs/2d05dce1eaa743c7/read
 
 ## 协作与联系
 
