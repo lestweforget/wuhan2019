@@ -17,3 +17,5 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 
 欢迎协作。有问题请[填写 issue](https://github.com/lestweforget/wuhan2019/issues/new) 。
 
+联系电邮： lestweforget@tuta.io
+
