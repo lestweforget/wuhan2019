@@ -70,3 +70,8 @@ The death toll in China rose to 304, with 14,380 infections reported.
 
 On **February 3**, China reported 57 new fatalities,  bringing its death toll to at least 361. The number of cases rose to  17,205 people across the country. 
 
+On **February 4**, China said the death toll rose to 425  people and the number of infected people stood at 20,438 in the  mainland. Hong Kong also reported one death, bringing the global  fatalities to 427. The first case was confirmed in Belgium in a person  who was repatriated from Wuhan. 
+
+As of **February 5**, More flights evacuating US  citizens returned from Wuhan and the WHO reaffirmed there was "no known  effective treatment" for the coronavirus.
+
+Meanwhile, China reported 490 deaths and 24,324 cases of infection.
