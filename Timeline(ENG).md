@@ -75,3 +75,7 @@ On **February 4**, China said the death toll rose to 425  people and the number 
 As of **February 5**, More flights evacuating US  citizens returned from Wuhan and the WHO reaffirmed there was "no known  effective treatment" for the coronavirus.
 
 Meanwhile, China reported 490 deaths and 24,324 cases of infection.
+
+On **February 6**, the death toll in mainland China rose to at least 563, with more than 28,000 cases confirmed. 
+
+Meanwhile, authorities in Malaysia reported the country's first  known-to-know transimission case in the country, while the number of  people infected in Europe reached 30 with one additional case registered  in the UK and one in Germany. 
