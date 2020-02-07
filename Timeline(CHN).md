@@ -5,8 +5,6 @@
   * [2019年12月8日-12月31日](#2019-12-8--12-31-)
   * [2020年1月1日-1月20日](#2020-1-1--1-20-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 来源：[财新网](http://www.caixin.com/2020-01-21/101506971.html)
 
