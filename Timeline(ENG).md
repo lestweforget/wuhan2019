@@ -79,3 +79,17 @@ Meanwhile, China reported 490 deaths and 24,324 cases of infection.
 On **February 6**, the death toll in mainland China rose to at least 563, with more than 28,000 cases confirmed. 
 
 Meanwhile, authorities in Malaysia reported the country's first  known-to-know transimission case in the country, while the number of  people infected in Europe reached 30 with one additional case registered  in the UK and one in Germany. 
+
+On **February 7**, Li Wenliang, a doctor who was  among the first to sound the alarm over the coronavirus, died, and Hong  Kong introduced prison sentences for anyone breaching quarantine rules.
+
+Mainland China confirmed the death toll had reached at least  636, with 31,161 cases of infection and Chinese researchers suggested  the pangolin may have been one link in the chain of animal-human  infections.
+
+On **February 8,** a US citizen died in Wuhan in what appears to be the first confirmed foreign death from the coronavirus outbreak.
+
+A Japanese man in his 60s with a suspected coronavirus infection also died in hospital in Wuhan, Japan's foreign ministry said. 
+
+The death toll in China reached 722, while there are now 34,546 confirmed infections.
+
+On **February 9**, the death toll in China surpassed that of the 2002-2003 SARS epidemic, with 811 deaths recorded and 37,198 infections. 
+
+Several new cases were reported elsewhere, including in Spain and the United Kingdom.
