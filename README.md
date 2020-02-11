@@ -13,7 +13,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - ~~其他媒体文章摘录来自 [石墨](https://shimo.im/docs/2d05dce1eaa743c7/read  ) （已停止更新）~~
 - 文章生成为PDF文件，格式一般为：日期+标题；基本上做到被删除文章均有备份
 - 文章链接主要来源但不限于 [2019ncovmemory ]( https://github.com/2019ncovmemory/nCovMemory) ，以及一些主流媒体
-- 2月10日增加纽约时报中文 作为报道的对照
+- 2月10日增加 `NewYork Times (中文)` 作为报道的对照
 
 ## 协作与联系
 
@@ -23,4 +23,5 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 
 ## 其他
 
-关于被当局删除的新闻及个人微博等内容，推荐关注 **2019肺炎疫情新闻赛博坟场** https://t.me/wuhancensored
+- 关于被当局删除的新闻及个人微博等内容，推荐关注 **2019肺炎疫情新闻赛博坟场** https://t.me/wuhancensored
+- 志愿者整理的新冠肺炎时间线 https://github.com/Pratitya/wuhan2020-timeline

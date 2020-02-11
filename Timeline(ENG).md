@@ -92,4 +92,8 @@ The death toll in China reached 722, while there are now 34,546 confirmed infect
 
 On **February 9**, the death toll in China surpassed that of the 2002-2003 SARS epidemic, with 811 deaths recorded and 37,198 infections. 
 
-Several new cases were reported elsewhere, including in Spain and the United Kingdom.
+An investigation team led by experts from the WHO departed for China.
+
+As of **February 10**, China had 908  confirmed deaths and a total of 40,171 infections - 97 new fatalities  were reported following the deadliest day of the outbreak.
+
+President Xi Jinping appeared with the public for the  first time since the epidemic began, visiting a hospital in Beijing and  urging Chinese to fight the battle against the virus with confidence.
