@@ -97,3 +97,7 @@ An investigation team led by experts from the WHO departed for China.
 As of **February 10**, China had 908  confirmed deaths and a total of 40,171 infections - 97 new fatalities  were reported following the deadliest day of the outbreak.
 
 President Xi Jinping appeared with the public for the  first time since the epidemic began, visiting a hospital in Beijing and  urging Chinese to fight the battle against the virus with confidence.
+
+On **February 11,** the WHO announced that the new coronavirus would be called "COVID-19".
+
+Meanwhile, deaths in China reached 1,016, with 42,638 infections recorded.
