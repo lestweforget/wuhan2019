@@ -101,3 +101,7 @@ President Xi Jinping appeared with the public for the  first time since the epid
 On **February 11,** the WHO announced that the new coronavirus would be called "COVID-19".
 
 Meanwhile, deaths in China reached 1,016, with 42,638 infections recorded.
+
+As of **February 12**, there were 175 people infected on  board the Diamond Princess cruise ship, docked at Yokohama, the  Japanese health ministry said.
+
+The death toll in mainland China hit 1,113, with 44,653 infections recorded.
