@@ -13,7 +13,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - ~~其他媒体文章摘录来自 [石墨](https://shimo.im/docs/2d05dce1eaa743c7/read  ) （已停止更新）~~
 - 文章生成为PDF文件，格式一般为：日期+标题；基本上做到被删除文章均有备份
 - 文章链接主要来源但不限于 [2019ncovmemory ]( https://github.com/2019ncovmemory/nCovMemory) ，以及一些主流媒体
-- 2月10日增加 `NewYork Times (中文)` 作为报道的对照
+- 2月10日增加 [`NewYork Times (中文)`](https://github.com/lestweforget/wuhan2019/tree/master/NewYork%20Times%20(%E4%B8%AD%E6%96%87)) 作为报道的对照
 
 ## 协作与联系
 
