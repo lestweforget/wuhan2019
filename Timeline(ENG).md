@@ -105,3 +105,7 @@ Meanwhile, deaths in China reached 1,016, with 42,638 infections recorded.
 As of **February 12**, there were 175 people infected on  board the Diamond Princess cruise ship, docked at Yokohama, the  Japanese health ministry said.
 
 The death toll in mainland China hit 1,113, with 44,653 infections recorded.
+
+On **February 13**, North Korea imposed a  month-long quarantine on all foreign visitors and others suspected to  have COVID-19, the official Korean Central News Agency said.
+
+The death toll in mainland China hit 1,300, with nearly  60,000 infections recorded. Meanwhile, Japan confirmed its first death  from the virus. 
