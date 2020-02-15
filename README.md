@@ -19,7 +19,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 
 - 关于被当局删除的新闻及个人微博等内容，推荐关注 **2019肺炎疫情新闻赛博坟场** https://t.me/wuhancensored
 - 志愿者整理的**新冠肺炎时间线** https://github.com/Pratitya/wuhan2020-timeline
-- 时代透景：以时间线的形式展示新冠肺炎疫情、香港反送中等社会议题，推荐关注 https://chinatimeline.github.io/  ([github project](https://github.com/chinatimeline/chinatimeline.github.io))
+- **时代透镜**：以时间线的形式展示新冠肺炎疫情、香港反送中等社会议题，推荐关注  https://chinatimeline.github.io/  ([github project](https://github.com/chinatimeline/chinatimeline.github.io))
 
 ## 协作与联系
 
