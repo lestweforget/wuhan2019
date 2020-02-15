@@ -109,3 +109,7 @@ The death toll in mainland China hit 1,113, with 44,653 infections recorded.
 On **February 13**, North Korea imposed a  month-long quarantine on all foreign visitors and others suspected to  have COVID-19, the official Korean Central News Agency said.
 
 The death toll in mainland China hit 1,300, with nearly  60,000 infections recorded. Meanwhile, Japan confirmed its first death  from the virus. 
+
+On **February 14**, Egypt reported its first coronavirus case, becoming the first country in the African continent to confirm a case. China reported  121 more deaths, 116 of which are from the epicentre of the infection  in Hubei Province alone, bringing to nearly 1400 the total number of  deaths across the country.
+
+The death toll in mainland China surged past 1,500 on **February 15**, with Beijing reporting 143 more deaths. The number of confirmed cases stood at 66,492 in mainland China. 
