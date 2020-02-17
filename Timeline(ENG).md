@@ -113,3 +113,13 @@ The death toll in mainland China hit 1,300, with nearly  60,000 infections recor
 On **February 14**, Egypt reported its first coronavirus case, becoming the first country in the African continent to confirm a case. China reported  121 more deaths, 116 of which are from the epicentre of the infection  in Hubei Province alone, bringing to nearly 1400 the total number of  deaths across the country.
 
 The death toll in mainland China surged past 1,500 on **February 15**, with Beijing reporting 143 more deaths. The number of confirmed cases stood at 66,492 in mainland China. 
+
+**February 15** saw the death toll in mainland China surge past 1,500, with 66,492 infections confirmed in mainland China. 
+
+Elsewhere, the United States prepared to evacuate its citizens from a cruise ship quarantined at a Japanese dock.
+
+Meanwhile, a February 3 speech by Chinese President Xi Jinping,  published by state media, indicated the government knew about the threat  of the virus well before the public alarm was raised. 
+
+On **February 16**, Taiwan recorded its first death due to the coronavirus, a taxi driver in his 60s.
+
+Authorities reported that 1,665 people had died in mainland China with 68,500 cases of infection reported. 
