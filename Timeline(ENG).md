@@ -123,3 +123,7 @@ Meanwhile, a February 3 speech by Chinese President Xi Jinping,  published by st
 On **February 16**, Taiwan recorded its first death due to the coronavirus, a taxi driver in his 60s.
 
 Authorities reported that 1,665 people had died in mainland China with 68,500 cases of infection reported. 
+
+As of **February 17**, there were 1,770 deaths reported in mainland China and 70,548 cases.
+
+The vast majority of new cases were in Hubei province, where the outbreak began. 
