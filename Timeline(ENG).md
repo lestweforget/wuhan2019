@@ -131,3 +131,7 @@ The vast majority of new cases were in Hubei province, where the outbreak began.
 **February 18** saw China's daily infection figures drop  below 2,000 for the first time since January, with the country's health  commission reporting 72,436 infections on the mainland and 1,868  deaths.
 
 Meanwhile, Russia said it would ban entry for Chinese citizens from February 20.
+
+On **February 19**, Iran reported two deaths from the coronavirus, hours after confirming its first cases.
+
+China's daily infection figures drop below 2,000 for the second straight day, with the country's health commission reporting 74,185 infections on the mainland and 2,004 deaths.
