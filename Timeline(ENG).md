@@ -135,3 +135,7 @@ Meanwhile, Russia said it would ban entry for Chinese citizens from February 20.
 On **February 19**, Iran reported two deaths from the coronavirus, hours after confirming its first cases.
 
 China's daily infection figures drop below 2,000 for the second straight day, with the country's health commission reporting 74,185 infections on the mainland and 2,004 deaths.
+
+On **February 20**, South Korea reported its first death from the coronavirus. 
+
+Meanwhile, China reported the death toll had risen to 2,118 while the total number of cases reached 74,576. The country's health commission reported daily infections dropped to the lowest in almost a month, a result of authorities only counting cases confirmed by genetic testing in Hubei. 
