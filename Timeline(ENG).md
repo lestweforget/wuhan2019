@@ -139,3 +139,19 @@ China's daily infection figures drop below 2,000 for the second straight day, wi
 On **February 20**, South Korea reported its first death from the coronavirus. 
 
 Meanwhile, China reported the death toll had risen to 2,118 while the total number of cases reached 74,576. The country's health commission reported daily infections dropped to the lowest in almost a month, a result of authorities only counting cases confirmed by genetic testing in Hubei. 
+
+On **February 21**, South Korea reported its second death and 100 new confirmed cases of the coronavirus, bringing the total to 204. In mainland China, the death toll reached 2,236 as the confirmed cases of the infection rise above 75,400.
+
+Also, Israel reported its first confirmed case of the coronavirus after a woman who returned from a cruise ship tested positive.
+
+In Italy, the region of Lombardy reported the first local transmission of the virus with three new cases bringing the total in the country to six infections.
+
+On **February 22**, South Korea saw its largest spike in a single day with 229 new cases of the virus. 
+
+Italy reported its first two deaths, while Iran confirmed a fifth death among 10 new infections. A sixth death was later confirmed, though it was not clear whether this case was included in the country's 28 confirmed cases.
+
+In mainland China, the number of new infections fell significantly with 397 cases reported.
+
+**February 23** saw several countries close their borders with Iran as the number of infections and deaths in the country grew.
+
+In Italy, officials confirmed a third death, while local authorities brought the Venice Carnival to an early end and suspended sports events around the country in an attempt to combat the spread of the virus in Europe's worst-hit country.
