@@ -155,3 +155,13 @@ In mainland China, the number of new infections fell significantly with 397 case
 **February 23** saw several countries close their borders with Iran as the number of infections and deaths in the country grew.
 
 In Italy, officials confirmed a third death, while local authorities brought the Venice Carnival to an early end and suspended sports events around the country in an attempt to combat the spread of the virus in Europe's worst-hit country.
+
+On **February 24,** Kuwait, Bahrain, Iraq, Afghanistan and Oman all reported their first cases of the virus. Meanwhile, the number of cases in South Korea ballooned to 833 cases with seven deaths.
+
+The death toll in China rose to 2,595 among 77,262 confirmed cases.
+
+A seventh death was reported in northern Italy.
+
+On **February 25** Iran's deputy health minister, who had a day prior given a press briefing on the outbreak, confirmed that he had coronavirus. The country's official total reached 95 cases with 15 deaths. 
+
+Meanwhile, China's reported cases continued to plateau, with 518 new infections and 71 new deaths confirmed. Meanwhile, South Korea's confirmed cases rose to 977 while Italy's reached 229. 
