@@ -165,3 +165,7 @@ A seventh death was reported in northern Italy.
 On **February 25** Iran's deputy health minister, who had a day prior given a press briefing on the outbreak, confirmed that he had coronavirus. The country's official total reached 95 cases with 15 deaths. 
 
 Meanwhile, China's reported cases continued to plateau, with 518 new infections and 71 new deaths confirmed. Meanwhile, South Korea's confirmed cases rose to 977 while Italy's reached 229. 
+
+On **February 26**, the global death toll neared 2,800 with a total of about 80,000 confirmed infection cases reported globally.
+
+Norway, Georgia, Pakistan, North Macedonia and Brazil all detected their first cases of the coronavirus.
