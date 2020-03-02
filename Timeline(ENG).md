@@ -169,3 +169,15 @@ Meanwhile, China's reported cases continued to plateau, with 518 new infections 
 On **February 26**, the global death toll neared 2,800 with a total of about 80,000 confirmed infection cases reported globally.
 
 Norway, Georgia, Pakistan, North Macedonia and Brazil all detected their first cases of the coronavirus.
+
+On **February 27**, Estonia, Denmark, Northen Ireland and the Netherlands reported their first coronavirus cases. The number of infections passed 82,000 worldwide, including more than 2,800 deaths.
+
+Italy has seen a spike in infections which jumped to 650, while 3 more people died with the tally of dead people now at 17.
+
+Meanwhile in the US, the administration is considering invoking the Defense Production Act which would grant President Donald Trump the power to expand industrial production of key materials or products for national security. 
+
+On **February 28,** Lithuania and Wales reported their first coronavirus cases, with Netherlands and Georgia reporting their second.
+
+**February 29** saw South Korea report its highest daily number of confirmed cases yet, 813, bringing the country's total to 3,150 with 17 deaths. Iran also reported the number of its cases had jumped 388 cases to 593 in 24 hours, with the death toll reaching 43.  
+
+Meanwhile, Qatar confirmed the first case in the country. 
