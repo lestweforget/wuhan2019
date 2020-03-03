@@ -14,6 +14,9 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - 文章生成为PDF文件，格式一般为：日期+标题；基本上做到被删除文章均有备份
 - 文章链接主要来源但不限于 [2019ncovmemory ]( https://github.com/2019ncovmemory/nCovMemory) ，以及一些主流媒体
 - 2月10日增加 [`NewYork Times (中文)`](https://github.com/lestweforget/wuhan2019/tree/master/NewYork%20Times%20(%E4%B8%AD%E6%96%87)) 作为报道的对照
+- [时间线中文版本](https://github.com/lestweforget/wuhan2019/blob/master/Timeline(CHN).md)
+- [Timeline (in English)](https://github.com/lestweforget/wuhan2019/blob/master/Timeline(ENG).md)
+- [假如武汉的警铃有机会拉响，可以是哪天？](https://github.com/lestweforget/wuhan2019/blob/master/The-timeline-from-alarm-to-lockdown.pdf) （第一财经文章）
 
 ## 其他
 

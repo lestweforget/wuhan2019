@@ -181,3 +181,7 @@ On **February 28,** Lithuania and Wales reported their first coronavirus cases, 
 **February 29** saw South Korea report its highest daily number of confirmed cases yet, 813, bringing the country's total to 3,150 with 17 deaths. Iran also reported the number of its cases had jumped 388 cases to 593 in 24 hours, with the death toll reaching 43.  
 
 Meanwhile, Qatar confirmed the first case in the country. 
+
+**March 2**, Saudi Arabia's health ministry announced its first coronavirus case. The victim travelled from Iran to the Gulf kingdom through Bahrain, the state-run Saudi Press Agency reported.
+
+Tunisia and Jordan also reported their first cases as the outbreak continues to spread in the Middle East.
