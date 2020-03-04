@@ -185,3 +185,5 @@ Meanwhile, Qatar confirmed the first case in the country.
 **March 2**, Saudi Arabia's health ministry announced its first coronavirus case. The victim travelled from Iran to the Gulf kingdom through Bahrain, the state-run Saudi Press Agency reported.
 
 Tunisia and Jordan also reported their first cases as the outbreak continues to spread in the Middle East.
+
+**March 3,** Italy announced the death toll in the country reached 77, surpassing the total deaths in Iran, which stand at 77.
