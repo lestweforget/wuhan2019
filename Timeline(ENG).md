@@ -189,3 +189,11 @@ Meanwhile, Qatar confirmed the first case in the country.
 Tunisia and Jordan also reported their first cases as the outbreak continues to spread in the Middle East.
 
 **March 3,** Italy announced the death toll in the country reached 77, surpassing the total deaths in Iran, which stand at 77.
+
+On **March 7,** the coronavirus had killed nearly 3,500 people and infected another 102,000 people across more than 90 countries.
+
+China's Health Commission reported 99 new cases, down from 143 cases the day before, with a total of 80,651 cases nationwide. Official data, meanwhile, showed China's exports plunging 17.2 percent in the first two months of the year after the outbreak brought much of the country to a halt.
+
+In Iran, one of the worst-hit countries with 4,747 reported cases and 124 deaths, recently-elected MP Fatemeh Rahbar died from the coronavirus.
+
+On **March 8**, Saudi authorities locked down the eastern Qatif region in a bid to contain the fast-spreading virus. Riyadh also said it was suspending all schools and universities across the country from Monday until further notice.
