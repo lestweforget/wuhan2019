@@ -197,3 +197,13 @@ China's Health Commission reported 99 new cases, down from 143 cases the day bef
 In Iran, one of the worst-hit countries with 4,747 reported cases and 124 deaths, recently-elected MP Fatemeh Rahbar died from the coronavirus.
 
 On **March 8**, Saudi authorities locked down the eastern Qatif region in a bid to contain the fast-spreading virus. Riyadh also said it was suspending all schools and universities across the country from Monday until further notice.
+
+In Italy, the government imposed a strict quarantine in the state of Lombardy and 14 other areas in the north, affecting a total of 16 million people.
+
+On **March 9**, Iran released about 70,000 prisoners because of the coronavirus outbreak in the country, Iranian judiciary chief Ebrahim Raisi said, without specifying if or when those released would need to return to jail.
+
+Germany reported its first two deaths, with at least 1,100 confirmed cases in the country.
+
+On **March 10**, Both Iran and Italy recorded their highest death tolls in a single day. A total of 54 people were killed in Iran over a 24-hour period, while in Italy, 168 new fatalities were recorded from the coronavirus. 
+
+Lebanon and Morocco reported their first deaths from the virus, while Democratic Republic of Congo, Panama and Mongolia confirmed their first cases of infection.
