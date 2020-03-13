@@ -207,3 +207,9 @@ Germany reported its first two deaths, with at least 1,100 confirmed cases in th
 On **March 10**, Both Iran and Italy recorded their highest death tolls in a single day. A total of 54 people were killed in Iran over a 24-hour period, while in Italy, 168 new fatalities were recorded from the coronavirus. 
 
 Lebanon and Morocco reported their first deaths from the virus, while Democratic Republic of Congo, Panama and Mongolia confirmed their first cases of infection.
+
+On **March 11**, WHO declared the coronavirus outbreak a pandemic, as Turkey, Ivory Coast, Honduras and Bolivia confirmed their first cases. 
+
+In Qatar, infections jumped drastically from 24 to 262 in a single day.
+
+On **March 12**, the global death toll has surpassed 4,600 with infections exceeding 126,100 cases. China reported 15 new cases, its lowest number since the daily reporting on infections began seven weeks ago.
