@@ -18,6 +18,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - [Timeline (in English)](https://github.com/lestweforget/wuhan2019/blob/master/Timeline(ENG).md)
 - [假如武汉的警铃有机会拉响，可以是哪天？](https://github.com/lestweforget/wuhan2019/blob/master/The-timeline-from-alarm-to-lockdown.pdf) （第一财经文章）
 - 3月13日，由于澎湃新闻的质量日趋下降，停更；不再新增个人故事
+- 3月17日，由于文章质量下降，停止更新中国经营报、新民周刊
 
 ## 其他
 

@@ -213,3 +213,17 @@ On **March 11**, WHO declared the coronavirus outbreak a pandemic, as Turkey, Iv
 In Qatar, infections jumped drastically from 24 to 262 in a single day.
 
 On **March 12**, the global death toll has surpassed 4,600 with infections exceeding 126,100 cases. China reported 15 new cases, its lowest number since the daily reporting on infections began seven weeks ago.
+
+On **March 15**, Spain reported about 2,000 new coronavirus cases and more than 100 deaths over the last 24 hours. The new figures raise Spain's COVID-19 death toll to 288, with more than 7,700 people infected. 
+
+Kazakhstan, the Phillipines and Austria announced tightened restrictions in a bid to contain the [coronavirus outbreak](https://www.aljazeera.com/topics/events/coronavirus-outbreak.html).
+
+On **March 16,** New York Mayor Bill de Blasio ordered the city's bars, theatres and cinemas to close down, as the number of cases keeps rising in the US.
+
+On the same day, more cases were reported in Turkey and Pakistan, while Iran registered a total of 14,991 infections and 853 deaths. 
+
+The Gulf region marked its first death due to coronavirus in Bahrain. 
+
+In Africa, Somalia confirmed its first case of the new coronavirus. 
+
+Two South American countries, Chile and Guatemala, announced they have closed their borders as part of measures aimed at containing coronavirus.
