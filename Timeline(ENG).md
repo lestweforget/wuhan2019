@@ -229,3 +229,11 @@ In Africa, Somalia confirmed its first case of the new coronavirus.
 Two South American countries, Chile and Guatemala, announced they have closed their borders as part of measures aimed at containing coronavirus.
 
 On **March 17**, Italy reported 345 new coronavirus deaths in the country over the last 24 hours taking its total death toll to 2,503 - an increase of 16 percent. The total number of cases in Italy rose to 31,506 from a previous 27,980, up 12.6 percent - the slowest rate of increase since the contagion came to light on February 21. 
+
+Turkey, meanwhile, reported its first death related to the pandemic, an 89-year-old person.
+
+On **March 18**, Australian Prime Minister Scott Morrison declared for the first time ever a "human biosecurity emergency" in the country.
+
+Morrison said the travel advisory had been upgraded to the top-most level and told Australians: "Do not travel abroad, do not go overseas."
+
+Italy, meanwhile, [recorded](https://www.aljazeera.com/news/2020/03/europe-closes-borders-curb-coronavirus-spread-live-updates-200318000201088.html) 475 new deaths, the highest one-day toll of any nation, taking its total to 2,978. The total number of infections in the country reached 35,713. 
