@@ -237,3 +237,23 @@ On **March 18**, Australian Prime Minister Scott Morrison declared for the first
 Morrison said the travel advisory had been upgraded to the top-most level and told Australians: "Do not travel abroad, do not go overseas."
 
 Italy, meanwhile, [recorded](https://www.aljazeera.com/news/2020/03/europe-closes-borders-curb-coronavirus-spread-live-updates-200318000201088.html) 475 new deaths, the highest one-day toll of any nation, taking its total to 2,978. The total number of infections in the country reached 35,713. 
+
+For the first time since the start of the epidemic, no new domestic cases were reported in China. 
+
+On **March 19**, Italy overtook China as the country with the most coronavirus-related deaths, registering 3,405 dead compared to 3,245 in China.
+
+The death toll in Spain soared by 209 to 767 fatalities from the previous day. A roughly 25 percent increase in infections was recorded, taking the country's total to 17,147.
+
+On **March 20**, coronavirus-related deaths surged past 10,000 globally. The number of cases in Germany rose by 2,958 overnight to 13,957. Spain, meanwhile, said the death toll due to COVID-19 had risen to 1,002.
+
+In China, however, no new domestic cases were reported for a second consecutive day even as concerns remained about infected people flying into the country and importing a second wave of the disease.
+
+On **March 21**, Europe remains the epicentre of the coronavirus with Italy reporting 793 new fatalities, its biggest daily increase, bringing the total number of deaths to 4,825 amid 53,578 cases.
+
+Spain is the second worst-hit country in Europe with more than 21,000 infections and at least 1,000 deaths. 
+
+To help each European country to contain the pandemic, the EU has taken the unprecedented step to suspend rules on public deficits, giving countries free rein to inject spending into the economy as needed.
+
+Meanwhile, the first two fatalities have been reported in Singapore. 
+
+On **March 22**, the global death toll rose above 13,000 while infection count surpassed 311,000. Governments around the world continued to lock down their countries, with the latest curfew coming into effect in India. The besieged Palestinian territory of Gaza registered its first two coronavirus cases.
