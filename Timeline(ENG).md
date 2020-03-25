@@ -257,3 +257,13 @@ To help each European country to contain the pandemic, the EU has taken the unpr
 Meanwhile, the first two fatalities have been reported in Singapore. 
 
 On **March 22**, the global death toll rose above 13,000 while infection count surpassed 311,000. Governments around the world continued to lock down their countries, with the latest curfew coming into effect in India. The besieged Palestinian territory of Gaza registered its first two coronavirus cases.
+
+On **March 23**, Italy reported 602 new deaths, bringing the total to 6,077 with the tally of cases in the country, rising to 63,928. Meanwhile, in the US, the number of cases surged past 35,000, with a death toll of 495, according to John Hopkins University data.
+
+On **March 24,** Spain reported 6,600 new coronavirus cases, brining the total number of infections to 39,673, while fatalities rose to 2,696 from 2,182 the previous day.
+
+Laos recorded its first two coronavirus cases.
+
+On **March 25**, The White House and Senate leaders of both parties have struck an agreement on a sweeping $2 trillion measure to aid workers, businesses and a healthcare system strained by the rapidly spreading coronavirus outbreak.
+
+Meanwhile, India's 1.3 billion people have joined the global lockdown triggered by the outbreak as the WHO expressed concern at the acceleration of the pandemic in the US which reported more than 55,000 cases. 
