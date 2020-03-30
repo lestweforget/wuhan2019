@@ -266,4 +266,26 @@ Laos recorded its first two coronavirus cases.
 
 On **March 25**, The White House and Senate leaders of both parties have struck an agreement on a sweeping $2 trillion measure to aid workers, businesses and a healthcare system strained by the rapidly spreading coronavirus outbreak.
 
-Meanwhile, India's 1.3 billion people have joined the global lockdown triggered by the outbreak as the WHO expressed concern at the acceleration of the pandemic in the US which reported more than 55,000 cases. 
+Meanwhile, India's 1.3 billion people joined the global lockdown, and Spain recorded more than 700 deaths over the previous 24 hours, surpassing China in the total death toll, making the country now second to only Italy.
+
+On **March 26**, the total number of coronavirus cases globally surpassed 500,000. 
+
+Cases in Europe topped 250,000 - more than half of which were in Spain and hard-hit Italy. Spain recorded 655 new fatalities over 24 hours, while Italy's death toll rose by 712 to hit 8,215. 
+
+Kenya, Kazakhstan and Honduras all reported their first deaths.
+
+On **March 27**, UK Prime Minister Boris Johnson announced he had tested positive for the coronavirus.
+
+"Over the last 24 hours I have developed mild symptoms and tested positive for coronavirus," Johnson said in a video posted on Twitter. "I am now self-isolating, but I will continue to lead the government's response via video-conference as we fight this virus."
+
+In Spain, meanwhile, the death toll rose to 4,858 after 769 people died over 24 hours, while South Africa recorded its first two deaths as a three-week nationwide lockdown came into force.
+
+On **March 28**, the number of cases worldwide surpassed 600,000, with more than 27,000 deaths. 
+
+Spain's death toll meanwhile jumped to 5,690, with 832 fatalities in the past 24 hours, according to the country's health ministry. In the US, the number of people infected with the virus hit more than 104,000, while fatalities exceeded 1,700.
+
+Italy's death toll from the virus also shot past 10,000 with 889 new deaths, according to the country's civil protection service.
+
+On **March 29**, the US accounted for the highest number of coronavirus infections in the world, recording more than 124,000 cases. The death toll in the country surged past 2,000, more than double the figure two days ago.
+
+Spain's health ministry announced 838 new coronavirus deaths, marking the country's highest daily jump in fatalities and bringing its total to 6,528.
