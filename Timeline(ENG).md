@@ -289,3 +289,13 @@ Italy's death toll from the virus also shot past 10,000 with 889 new deaths, acc
 On **March 29**, the US accounted for the highest number of coronavirus infections in the world, recording more than 124,000 cases. The death toll in the country surged past 2,000, more than double the figure two days ago.
 
 Spain's health ministry announced 838 new coronavirus deaths, marking the country's highest daily jump in fatalities and bringing its total to 6,528.
+
+On **March 30** US President Donald Trump extended federal guidelines on social distancing until April 30 after a top health official warned between 100,000 to 200,000 people could die from coronavirus in the United States. 
+
+Meanwhile, France announced it would pay for hotel rooms for victims of domestic violence and open pop-up counselling centres after figures showed the number of abuse cases had soared during the first week of the lockdown.
+
+On **March 31** the number of deaths in the US from coronavirus surpassed those reported by China, where the pandemic began in December, according to data collected by Johns Hopkins University.
+
+There have been more than 3,600 deaths in the US from the virus, the Baltimore-based university reported, more than the 3,309 in China.
+
+In the hardest-hit countries in Europe, Italy reported the slowest daily rise in infections for two weeks, although the number of dead rose by 812. In Spain, an additional 800 deaths were reported. 
