@@ -299,3 +299,9 @@ On **March 31** the number of deaths in the US from coronavirus surpassed those 
 There have been more than 3,600 deaths in the US from the virus, the Baltimore-based university reported, more than the 3,309 in China.
 
 In the hardest-hit countries in Europe, Italy reported the slowest daily rise in infections for two weeks, although the number of dead rose by 812. In Spain, an additional 800 deaths were reported. 
+
+On **April 1**, the United Nations chief has warned the coronavirus pandemic presents the world with its "worst crisis" since World War II, with almost 922,000 people around the world having been diagnosed with the virus. 
+
+The US death toll passing 4,300 as Spain, the United Kingdom and France reported their largest single-day increase in deaths to date.
+
+Meanwhile, China is due to release data showing the number of asyptomatic cases, data not previously released publicly. 
