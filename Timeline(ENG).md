@@ -26,6 +26,12 @@ The disease has killed more than 70,500 people and infected more than 1.3 millio
 
 Below is a timeline:
 
+On **April 7**, Spain has reported a slight increase in the daily death toll of coronavirus for the first time in five days, with 743 people succumbing overnight. 
+
+Meanwhile Japan declared a state of emergency amid a spike in coronavirus cases and Singapore began a partial lockdown. 
+
+The WHO urged countries not to lift measures put in place to slow the spread of the coronavirus "too early" after Austria and Denmark announced that they would start easing restrictions once Easter has passed. 
+
 On **April 6**, Spain, one of the world's worst-hit countries, reported 4,237 additional cases of the coronavirus with 637 new deaths, the fourth day the daily totals declined from the previous day.  The new numbers offer another glimmer of hope in Europe, after Italy on Sunday saw its death toll at its lowest in more than two weeks and its infection curve finally on a downward slope.
 
 Meanwhile, the United States entered one of the most critical weeks so far, with government officials warning the high death toll in New York, Michigan and Louisiana was a sign of trouble to come in other states. The country's overall death toll, meanwhile, topped 10,000, only exceeded by Italy with 15,887 and Spain with 13,055.
