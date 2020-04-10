@@ -26,6 +26,20 @@ The disease has killed more than 70,500 people and infected more than 1.3 millio
 
 Below is a timeline:
 
+On **April 9**, Spain's number of daily coronavirus deaths slowed after two days of increase as 683 people succumbed in 24 hours, taking the country's total to 15,238, the health ministry said.
+
+Meanwhile, Malaysia reported 109 new coronavirus infections, raising its cumulative total to 4,228 cases as Southeast Asia's third-largest economy grapples with the highest number of infections in the region.
+
+British Prime Minister Boris Johnson was moved out of the intensive care unit but remained in hospital, where he continued to receive treatment for coronavirus. A spokesman said the prime minister was in "extremely good spirits".
+
+The number of deaths linked to the coronavirus in the United States passed 15,000, as the number of cases in the country topped 450,000, according to a Johns Hopkins University tally. Officials said that there were signs the pandemic may be nearing its peak in some of the cities hardest hit early on in the crisis.
+
+On **April 8**,  World Health Organization chief Tedros Adhanom Ghebreyesus defended the agency's handling of the pandemic after US President Donald Trump accused it of being "China-centric" and threatened to cut funding.
+
+The United Kingdom on Wednesday recorded its highest daily death toll, at 938, bringing the number of total coronavirus-linked fatalities to 7,097 while infections in the US surged past the 400,000 mark. 
+
+Wuhan began allowing people to leave for the first time since the central Chinese city was sealed off 76 days ago to contain the coronavirus that first emerged there late last year.
+
 On **April 7**, Spain has reported a slight increase in the daily death toll of coronavirus for the first time in five days, with 743 people succumbing overnight. 
 
 Meanwhile Japan declared a state of emergency amid a spike in coronavirus cases and Singapore began a partial lockdown. 
