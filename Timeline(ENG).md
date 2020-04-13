@@ -26,6 +26,28 @@ The disease has killed more than 70,500 people and infected more than 1.3 millio
 
 Below is a timeline:
 
+On **April 13,** China reported 108 new cases, the vast majority of which had been imported. The daily number was the highest since March 5, as cases have crept up since a trough on March 12 and the border with Russia has become a new frontline in the battle against a second wave.
+
+On **April 12**, Spain's daily death toll rose by 619 from a nearly three-week low of 510 the day before, breaking a three-day streak of daily declines and taking the country's death toll to 16,972.
+
+Italy reported the lowest number of deaths since March 19, with 431 fatalities recorded in the last 24 hours, down from 619 the previous day.
+
+On **April 11**, Spain confirmed 510 new deaths, the lowest daily toll since March 23, while it added 4,830 new cases.
+
+Meanwhile, the US recorded a total death toll of 20,071, surpassing Italy's death toll of 19,468. Cases in the US topped 519,000.
+
+The worldwide death toll now stands at over 107,000, with the number of infections topping 1.7 million, including more than 395,000 recovered patients.
+
+On **April 10**, Spain reported 605 new coronavirus deaths, continuing a downward trend, and 4,566 new cases. The United Kingdom, however, announced its worst single-day death toll, with a further 980 people who had contracted coronavirus losing their lives in the 24 hours before Thursday evening.
+
+In Singapore, the use of Zoom for online education was suspended after hackers hijacked a lesson and showed obscene images to students.
+
+Poland's government spokesman Piotr Muller said the country may see the peak of infections from the coronavirus in the coming days.
+
+The worldwide death toll surpassed 100,000 amid about 1.67 million cases.
+
+Italy registered the highest number of deaths, more than 18,800, while the US reported the majority of confirmed infections, nearly half a million.
+
 On **April 9**, Spain's number of daily coronavirus deaths slowed after two days of increase as 683 people succumbed in 24 hours, taking the country's total to 15,238, the health ministry said.
 
 Meanwhile, Malaysia reported 109 new coronavirus infections, raising its cumulative total to 4,228 cases as Southeast Asia's third-largest economy grapples with the highest number of infections in the region.
