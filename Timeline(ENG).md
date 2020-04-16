@@ -3,6 +3,7 @@
 来源：[半岛电视台](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html) 
 
 
+- [April 6 - 12](#april-6---12)
 - [**March 30 - April 5**](#--march-30---april-5--)
 - [**March 23 - 29**](#--march-23---29--)
 - [**March 16 - 22**](#--march-16---22--)
@@ -26,7 +27,21 @@ The disease has killed more than 70,500 people and infected more than 1.3 millio
 
 Below is a timeline:
 
-On **April 13,** China reported 108 new cases, the vast majority of which had been imported. The daily number was the highest since March 5, as cases have crept up since a trough on March 12 and the border with Russia has become a new frontline in the battle against a second wave.
+On **April 15,** Denmark began reopening schools after a month-long closure over the novel coronavirus, becoming the first country in Europe to do so.
+
+The total number of coronavirus cases in the world has surpassed two million, according to the data compiled by the Johns Hopkins University.
+
+The International Monetary Fund (IMF) says the global economy is expected to [shrink by three percent ](https://www.aljazeera.com/ajimpact/imf-worst-recession-great-depression-200414125253286.html)this year - the biggest contraction since the Great Depression of the 1930s.
+
+On **April 14**, India has extended a nationwide lockdown until May 3. France also announced an extension of its lockdown until May 11.
+
+Taiwan reported no new cases of the coronavirus for the first time in more than a month, in the latest sign that the island's early and effective prevention methods have paid off. Taiwan has reported 393 cases to date - the majority of them "imported cases", and six deaths. 
+
+On **April 13,** the death toll from the new coronavirus in New York state passed 10,000, while Singapore's health ministry confirmed another 386 cases of coronavirus infections in the city-state's biggest daily jump, taking its total to 2,918. 
+
+China reported 108 new cases, the vast majority of which had been imported. The daily number was the highest since March 5, as cases have crept up since a trough on March 12 and the border with Russia has become a new frontline in the battle against a second wave. Nigeria, meanwhile, announced the extension of a 14-day lockdown in three key states for an additional two weeks.
+
+## April 6 - 12
 
 On **April 12**, Spain's daily death toll rose by 619 from a nearly three-week low of 510 the day before, breaking a three-day streak of daily declines and taking the country's death toll to 16,972.
 
