@@ -27,15 +27,19 @@ The disease has killed more than 70,500 people and infected more than 1.3 millio
 
 Below is a timeline:
 
+On **April 16**, the UK government said it would extend restrictions for at least another three weeks.
+
+In the United States, meanwhile, the number of people who have filed jobless claims as a result of the pandemic rose to 22 million.
+
 On **April 15,** Denmark began reopening schools after a month-long closure over the novel coronavirus, becoming the first country in Europe to do so.
 
 The total number of coronavirus cases in the world has surpassed two million, according to the data compiled by the Johns Hopkins University.
 
-The International Monetary Fund (IMF) says the global economy is expected to [shrink by three percent ](https://www.aljazeera.com/ajimpact/imf-worst-recession-great-depression-200414125253286.html)this year - the biggest contraction since the Great Depression of the 1930s.
+The International Monetary Fund (IMF) said the global economy is expected to [shrink by three percent ](https://www.aljazeera.com/ajimpact/imf-worst-recession-great-depression-200414125253286.html)this year - the biggest contraction since the Great Depression of the 1930s.
 
-On **April 14**, India has extended a nationwide lockdown until May 3. France also announced an extension of its lockdown until May 11.
+On **April 14**, India extended a nationwide lockdown until May 3. France also announced an extension of its lockdown until May 11.
 
-Taiwan reported no new cases of the coronavirus for the first time in more than a month, in the latest sign that the island's early and effective prevention methods have paid off. Taiwan has reported 393 cases to date - the majority of them "imported cases", and six deaths. 
+Taiwan reported no new cases of the coronavirus for the first time in more than a month, in the latest sign that the island's early and effective prevention methods have paid off. Taiwan has reported 393 cases to date - the majority of them "imported" - and six deaths. 
 
 On **April 13,** the death toll from the new coronavirus in New York state passed 10,000, while Singapore's health ministry confirmed another 386 cases of coronavirus infections in the city-state's biggest daily jump, taking its total to 2,918. 
 
