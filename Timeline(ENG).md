@@ -1,8 +1,7 @@
 ## Timeline: How China's new coronavirus spread
 
 来源：[半岛电视台](https://www.aljazeera.com/news/2020/01/timeline-china-coronavirus-spread-200126061554884.html) 
-
-
+- [April 13 - 19](#april-13---19)
 - [April 6 - 12](#april-6---12)
 - [**March 30 - April 5**](#--march-30---april-5--)
 - [**March 23 - 29**](#--march-23---29--)
@@ -19,93 +18,69 @@
 - [January 6 - 12](#january-6---12)
 - [December 31 - January 5](#december-31---january-5)
 
-
-
 The World Health Organization (WHO) has declared a pandemic over a [new coronavirus](https://www.aljazeera.com/topics/events/coronavirus-outbreak.html) which causes an illness known as [COVID-19](https://www.aljazeera.com/news/2020/02/covid-19-renames-deadly-coronavirus-200211172638418.html) that has spread to nearly every country.
 
 The disease has killed more than 70,500 people and infected more than 1.3 million, according to [data](https://coronavirus.jhu.edu/map.html) compiled by Johns Hopkins University.
 
 Below is a timeline:
 
-On **April 16**, the UK government said it would extend restrictions for at least another three weeks.
+On **April 23**, the number of US citizens who filed for first-time unemployment benefits in the five weeks since the start of coronavirus-related lockdowns reached a record 26 million.
 
-In the United States, meanwhile, the number of people who have filed jobless claims as a result of the pandemic rose to 22 million.
+The WHO meanwhile said that up to half of all coronavirus deaths across Europe have been in nursing homes, calling it an "unimaginable tragedy".
 
-On **April 15,** Denmark began reopening schools after a month-long closure over the novel coronavirus, becoming the first country in Europe to do so.
+On **April 22**, as known infections worldwide surpassed 2.5 million, the head of the WHO said there were "worrying upward trends" in early epidemics in parts of Africa and central and South America, warning that the "virus will be with us for a long time".
 
-The total number of coronavirus cases in the world has surpassed two million, according to the data compiled by the Johns Hopkins University.
+Australia is trying to build support internationally for an independent review of the origins and spread of the coronavirus pandemic.
 
-The International Monetary Fund (IMF) said the global economy is expected to [shrink by three percent ](https://www.aljazeera.com/ajimpact/imf-worst-recession-great-depression-200414125253286.html)this year - the biggest contraction since the Great Depression of the 1930s.
+The pandemic is expected to drive carbon dioxide emissions down by six percent this year, the head of the World Meteorological Organization said, in what would be the biggest yearly drop since World War II.
 
-On **April 14**, India extended a nationwide lockdown until May 3. France also announced an extension of its lockdown until May 11.
+On **April 21**, US President Donald Trump announced on Twitter that he "will be signing an Executive Order to temporarily suspend immigration into the United States!"
 
-Taiwan reported no new cases of the coronavirus for the first time in more than a month, in the latest sign that the island's early and effective prevention methods have paid off. Taiwan has reported 393 cases to date - the majority of them "imported" - and six deaths. 
+In Lebanon, Dozens of protesters poured back onto the streets of the capital, Beirut, protesting in their cars to maintain physical distance as the country combats the coronavirus outbreak.
 
-On **April 13,** the death toll from the new coronavirus in New York state passed 10,000, while Singapore's health ministry confirmed another 386 cases of coronavirus infections in the city-state's biggest daily jump, taking its total to 2,918. 
+Meanwhile, the number of people facing acute food insecurity could double, jumping to 265 million, according to a [new report](http://www.fightfoodcrises.net/?utm_source=twitter&utm_medium=social media&utm_campaign=fao) by the UN World Food Programme (WFP). 
 
-China reported 108 new cases, the vast majority of which had been imported. The daily number was the highest since March 5, as cases have crept up since a trough on March 12 and the border with Russia has become a new frontline in the battle against a second wave. Nigeria, meanwhile, announced the extension of a 14-day lockdown in three key states for an additional two weeks.
+On **April 20**, Italy reported its lowest number of deaths in a week, while the country recorded its first drop in the number of people currently suffering from the novel coronavirus since it recorded its first infection in February. 
+
+Belgium's immediate coronavirus crisis appeared to have passed its peak as the number of people admitted to hospitals with COVID-19 fell to its lowest level in a month, health officials said.
+
+Britain said it will review its approach to the coronavirus pandemic to learn what it could have done better, following criticism that the government was too slow to react.
+
+Poland said it may reverse the loosening of restrictions to curb the spread of the new coronavirus if the number of new cases rises significantly, Health Minister Lukasz Szumowski has said. 
+
+## April 13 - 19
+
+On **April 14**, both India and France extended a nationwide lockdown, until May 3 and May 11, respectively. On the same day, Taiwan reported no new cases for the first time in more than a month.
+
+Meanwhile, as known infections worldwide surpassed two million on **April 15**, the International Monetary Fund said the global economy was expected to shrink by three percent this year - the biggest contraction since the Great Depression of the 1930s.
+
+On **April 17**, Saudi Arabia's grand mufti said prayers during Ramadan and the subsequent Eid al-Fitr festival should be performed at home if the coronavirus outbreak continues, according to a Saudi newspaper.
+
+Turkey surpassed Iran for the most infections in the Middle East on **April 19**, as cases there rose to 86,306.
 
 ## April 6 - 12
 
-On **April 12**, Spain's daily death toll rose by 619 from a nearly three-week low of 510 the day before, breaking a three-day streak of daily declines and taking the country's death toll to 16,972.
+On **April 6**, UK Prime Minister Boris Johnson was moved into intensive care as his condition worsened after being hospitalised in London with persistent COVID-19 symptoms. He was released from intensive care on **April 9** and was discharged from hospital on **April 12**.
 
-Italy reported the lowest number of deaths since March 19, with 431 fatalities recorded in the last 24 hours, down from 619 the previous day.
+On **April 7**, Japan declared a state of emergency amid a spike in coronavirus cases, while Singapore began a partial lockdown.
 
-On **April 11**, Spain confirmed 510 new deaths, the lowest daily toll since March 23, while it added 4,830 new cases.
+On **April 8,** Wuhan began allowing people to leave for the first time since the central Chinese city was sealed off 76 days ago to contain the coronavirus that first emerged there late last year. In Singapore, the use of Zoom for online education was suspended after hackers hijacked a lesson and showed obscene images to students.
 
-Meanwhile, the US recorded a total death toll of 20,071, surpassing Italy's death toll of 19,468. Cases in the US topped 519,000.
+The UK announced its worst single-day death toll on **April 10**, with a further 980 people who had contracted coronavirus losing their lives in the 24 hours before Thursday evening.
 
-The worldwide death toll now stands at over 107,000, with the number of infections topping 1.7 million, including more than 395,000 recovered patients.
-
-On **April 10**, Spain reported 605 new coronavirus deaths, continuing a downward trend, and 4,566 new cases. The United Kingdom, however, announced its worst single-day death toll, with a further 980 people who had contracted coronavirus losing their lives in the 24 hours before Thursday evening.
-
-In Singapore, the use of Zoom for online education was suspended after hackers hijacked a lesson and showed obscene images to students.
-
-Poland's government spokesman Piotr Muller said the country may see the peak of infections from the coronavirus in the coming days.
-
-The worldwide death toll surpassed 100,000 amid about 1.67 million cases.
-
-Italy registered the highest number of deaths, more than 18,800, while the US reported the majority of confirmed infections, nearly half a million.
-
-On **April 9**, Spain's number of daily coronavirus deaths slowed after two days of increase as 683 people succumbed in 24 hours, taking the country's total to 15,238, the health ministry said.
-
-Meanwhile, Malaysia reported 109 new coronavirus infections, raising its cumulative total to 4,228 cases as Southeast Asia's third-largest economy grapples with the highest number of infections in the region.
-
-British Prime Minister Boris Johnson was moved out of the intensive care unit but remained in hospital, where he continued to receive treatment for coronavirus. A spokesman said the prime minister was in "extremely good spirits".
-
-The number of deaths linked to the coronavirus in the United States passed 15,000, as the number of cases in the country topped 450,000, according to a Johns Hopkins University tally. Officials said that there were signs the pandemic may be nearing its peak in some of the cities hardest hit early on in the crisis.
-
-On **April 8**,  World Health Organization chief Tedros Adhanom Ghebreyesus defended the agency's handling of the pandemic after US President Donald Trump accused it of being "China-centric" and threatened to cut funding.
-
-The United Kingdom on Wednesday recorded its highest daily death toll, at 938, bringing the number of total coronavirus-linked fatalities to 7,097 while infections in the US surged past the 400,000 mark. 
-
-Wuhan began allowing people to leave for the first time since the central Chinese city was sealed off 76 days ago to contain the coronavirus that first emerged there late last year.
-
-On **April 7**, Spain has reported a slight increase in the daily death toll of coronavirus for the first time in five days, with 743 people succumbing overnight. 
-
-Meanwhile Japan declared a state of emergency amid a spike in coronavirus cases and Singapore began a partial lockdown. 
-
-The WHO urged countries not to lift measures put in place to slow the spread of the coronavirus "too early" after Austria and Denmark announced that they would start easing restrictions once Easter has passed. 
-
-On **April 6**, Spain, one of the world's worst-hit countries, reported 4,237 additional cases of the coronavirus with 637 new deaths, the fourth day the daily totals declined from the previous day.  The new numbers offer another glimmer of hope in Europe, after Italy on Sunday saw its death toll at its lowest in more than two weeks and its infection curve finally on a downward slope.
-
-Meanwhile, the United States entered one of the most critical weeks so far, with government officials warning the high death toll in New York, Michigan and Louisiana was a sign of trouble to come in other states. The country's overall death toll, meanwhile, topped 10,000, only exceeded by Italy with 15,887 and Spain with 13,055.
-
-In the UK, Prime Minister Boris Johnson was moved into intensive care as his condition has worsened since being hospitalised with persistent COVID-19 symptoms, his Downing Street office said in a statement.
+The US recorded on **April 11** a total death toll of 20,071, surpassing Italy's toll of 19,468. Cases in the US topped 519,000.
 
 ## **March 30 - April 5** 
 
-On **March 31,** the number of deaths due to coronavirus in the US surpassed those reported by China, where the new coronavirus was detected late last year. By the end of the week, the US reported more than 4,000 amid more than 300,000 cases.  
+On **March 31**, the number of deaths due to coronavirus in the US surpassed those reported by China, where the new coronavirus was detected late last year. By the end of the week, the US reported more than 4,000 amid more than 300,000 cases.
 
 On **April 1**, UN chief Antonio Guterres warned the coronavirus pandemic presents the world with its "worst crisis" since World War II as the global total of confirmed COVID-19 cases reached one million and the worldwide death toll topped 50,000.
 
-On **April 3**, the World Health Organization (WHO) warned governments in the Middle East that they must act quickly to limit the spread of the coronavirus as cases in the region have risen to nearly 60,000 - almost double the tally of a week earlier. 
+On **April 3**, the World Health Organization (WHO) warned governments in the Middle East that they must act quickly to limit the spread of the coronavirus as cases in the region have risen to nearly 60,000 - almost double the tally of a week earlier.
 
 In the United Kingdom, Johnson was taken to a hospital on **April 5** after showing persistent symptoms, 10 days after testing positive for the virus.
 
 On the same day, Iran, the worst-hit country in the Middle East, reported a total death toll of 3,603 amid 58,226 cases. However, President Hassan Rouhani said that "low-risk" economic activities would resume from April 11. 
-
-
 
 ## **March 23 - 29** 
 
