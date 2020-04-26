@@ -24,6 +24,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - 3月17日，由于文章质量下降，停止更新中国经营报、新民周刊
 - 3月18日，新增 [`T magazine`](https://github.com/lestweforget/wuhan2019/tree/master/Tmagazine%E4%B8%AD%E6%96%87) 关于疫情系列文章（已完结）
 - 4月17日，除财新网肺炎日记、财经杂志数说疫情、纽约时报中文、Timeline（英文版）外，其他停止更新。
+- 4月26日，由于国内疫情报道暂告一段落，**本站暂停更新**并已备份到 gitlab (https://gitlab.com/lestweforget/wuhan)。国际疫情报道请参考国际媒体。
 
 ## 其他
 
@@ -31,7 +32,5 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - **时代透镜**：以时间线的形式展示新冠肺炎疫情、香港反送中等社会议题，推荐关注  https://chinatimeline.github.io/  ([github project](https://github.com/chinatimeline/chinatimeline.github.io))
 
 ## 协作与联系
-
-欢迎协作。有问题请[填写 issue](https://github.com/lestweforget/wuhan2019/issues/new) 。
 
 联系电邮： lestweforget@tuta.io
