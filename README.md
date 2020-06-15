@@ -6,6 +6,17 @@ This little project remind us, maybe just me, not forget this disaster which CCP
 
 All reports from main stream media, which some will be erased by CCP someday. But **the INTERNET never forget**. 
 
+
+- [关于声援陈玫、蔡伟及其女友的声明](#----------------)
+  * [一些事实](#----)
+  * [我的声援](#----)
+- [本项目目的](#-----)
+- [目录说明](#----)
+- [更新日志](#----)
+- [其他/或友情链接](#--------)
+- [联系](#--)
+
+
 ## 关于声援陈玫、蔡伟及其女友的声明
 
 ### 一些事实
