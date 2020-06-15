@@ -84,11 +84,12 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - 4月26日，由于国内疫情报道暂告一段落，**本站暂停更新**并已备份到 gitlab (https://gitlab.com/lestweforget/wuhan  )。国际疫情报道请参考国际媒体。
 - 6月5日，更新声援声明，更新本项目目的（或总结）。
 
-## 其他
+## 其他/或友情链接
 
-- 关于被当局删除的新闻及个人微博等内容，推荐关注 **2019肺炎疫情新闻赛博坟场** https://t.me/wuhancensored
-- **时代透镜**：以时间线的形式展示新冠肺炎疫情、香港反送中等社会议题，推荐关注  https://chinatimeline.github.io/  ([github project](https://github.com/chinatimeline/chinatimeline.github.io))
-- 时间线项目/Timeline Project https://github.com/lestweforget/COVID-19-Timeline
+- **2019肺炎疫情新闻赛博坟场** https://t.me/wuhancensored
+- **时代透镜**：以时间线的形式展示新冠肺炎疫情、香港反送中等社会议题  https://chinatimeline.github.io/  ([github project](https://github.com/chinatimeline/chinatimeline.github.io))
+- **时间线项目/Timeline Project ** https://github.com/lestweforget/COVID-19-Timeline
+- **网络文章爬取备份项目** https://github.com/duty-machine/duty-machine
 
 ## 联系
 
