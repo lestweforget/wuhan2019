@@ -99,6 +99,7 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - **时代透镜**：以时间线的形式展示新冠肺炎疫情、香港反送中等社会议题  https://chinatimeline.github.io/  ([github project](https://github.com/chinatimeline/chinatimeline.github.io))
 - **时间线项目/Timeline Project** https://github.com/lestweforget/COVID-19-Timeline
 - **网络文章爬取备份项目** https://github.com/duty-machine/duty-machine
+- **公益社会类项目汇总**： https://github.com/NodeBE4/impact/
 
 ## 联系
 
