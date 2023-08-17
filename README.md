@@ -103,4 +103,4 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 
 ## 联系
 
-电邮： lestweforget@tuta.io
+电邮： lestforget@pm.me
