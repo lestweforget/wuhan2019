@@ -30,8 +30,8 @@ All reports from main stream media, which some will be erased by CCP someday. Bu
 - 新闻报道见
   - [China Police Detain Three Linked to Censored Coronavirus Archive](https://www.nytimes.com/reuters/2020/04/27/world/asia/27reuters-health-coronavirus-china-rights.html) （纽约时报）
   -  [北京90后公益志愿者为新冠疫情文章备份遭“寻滋”监居](https://www.voachinese.com/a/chinese-netizen-activists-detained-for-copying-deleted-coronavirus-material-20200426/5392655.html) （美国之音）
-
-### 我的声援
+ - 据[维基百科](https://zh.wikipedia.org/zh-cn/%E7%AB%AF%E7%82%B9%E6%98%9F%E4%BA%8B%E4%BB%B6)目前（2024年1月25日），上述三人已全部获释
+### 声援
 
 根据《中华人民共和国宪法》第三十五条规定，“中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由”；美国总统富兰克林·德拉诺·罗斯福曾说过，世界各地的人们应享有“言论自由、宗教自由、免于匮乏的自由和免于恐惧的自由"。
 
